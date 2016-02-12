@@ -16,3 +16,8 @@ body {
 	background-color: #F0F7E8;
 }
 
+svg {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
