@@ -13,23 +13,23 @@ html {
 }
 
 body {
-	background-color: #f0f7e8;
-	margin: 0;
+  background-color: #f0f7e8;
+  margin: 0;
 }
 
 svg {
-	display: block;
-	width: 100%;
-	height: 100%;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 footer {
-	background-color: #daebc1;
-	background-image: url("../images/tips.svg");
-	overflow: hidden;
-	background-repeat: no-repeat;
+  background-color: #daebc1;
+  background-image: url("../images/tips.svg");
+  overflow: hidden;
+  background-repeat: no-repeat;
 }
 
 .tip-1, .tip-2, .tip-3 {
-	padding-top: 2.5rem;
+  padding-top: 2.5rem;
 }
