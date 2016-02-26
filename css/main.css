@@ -13,7 +13,7 @@ html {
 }
 
 body {
-	background-color: #F0F7E8;
+	background-color: #f0f7e8;
 	margin: 0;
 }
 
@@ -24,7 +24,7 @@ svg {
 }
 
 footer {
-	background-color: #DAEBC1;
+	background-color: #daebc1;
 	background-image: url("../images/tips.svg");
 	overflow: hidden;
 	background-repeat: no-repeat;
